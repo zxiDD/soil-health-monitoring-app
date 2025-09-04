@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183261023414",
+    "project_id": "soil-health-app-abb80",
+    "storage_bucket": "soil-health-app-abb80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183261023414:android:67bc11701b1c00dbb52a17",
+        "android_client_info": {
+          "package_name": "com.example.soil_health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDxRIOR5Nx9Fgxef7bY9hIf_hPcnvDxck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
