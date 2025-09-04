@@ -30,3 +30,20 @@ Currently the application deals with mock data but it is perfectly set up to sca
 ```bash
   flutter run
 ```
+
+## Screenshots
+
+<p float="left" align="center">
+  <figure>
+    <figcaption>Login Screen</figcaption>
+    <img src="assets/screenshots/login.png" width="200"/>
+  </figure>
+  <figure>
+    <figcaption>Home Screen</figcaption>
+    <img src="assets/screenshots/home.png" width="200"/>
+  </figure>
+  <figure>
+    <figcaption>Reports Screen</figcaption>
+    <img src="assets/screenshots/reports.png" width="200"/>
+  </figure>
+</p>
