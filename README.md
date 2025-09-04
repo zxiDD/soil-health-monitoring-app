@@ -1,16 +1,32 @@
-# soil_health_app
+# Soil Health Monitoring App
 
-A new Flutter project.
+A Flutter-based mobile application that measures and tracks soil health readings (temperature & moisture).  
+The app connects to sensors (via Bluetooth), stores readings in Firebase Firestore, and allows each user to view their personal soil health history.  
+Currently the application deals with mock data but it is perfectly set up to scale up for actual bluetooth connectivity.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+  git clone https://github.com/your-username/soil-health-app.git
+  cd soil-health-app
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Install Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  flutter pub get
+```
+
+3. Firebase Setup
+
+```bash
+  flutterfire configure
+```
+
+4. Run the app
+
+```bash
+  flutter run
+```
